@@ -1,0 +1,9 @@
+.team-items {
+	list-style: none;
+}
+
+.team-items:hover {
+	font-size: 18px;
+	cursor: pointer;
+	color: green;
+}
